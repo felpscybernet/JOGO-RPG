@@ -1,0 +1,12 @@
+C:\Users\ederc\Documents\GitHub\JOGO-RPG\projeto\objetos\bin\Debug\net6.0\objetos.deps.json
+C:\Users\ederc\Documents\GitHub\JOGO-RPG\projeto\objetos\bin\Debug\net6.0\objetos.dll
+C:\Users\ederc\Documents\GitHub\JOGO-RPG\projeto\objetos\bin\Debug\net6.0\objetos.pdb
+C:\Users\ederc\Documents\GitHub\JOGO-RPG\projeto\objetos\obj\Debug\net6.0\objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ederc\Documents\GitHub\JOGO-RPG\projeto\objetos\obj\Debug\net6.0\objetos.AssemblyInfoInputs.cache
+C:\Users\ederc\Documents\GitHub\JOGO-RPG\projeto\objetos\obj\Debug\net6.0\objetos.AssemblyInfo.cs
+C:\Users\ederc\Documents\GitHub\JOGO-RPG\projeto\objetos\obj\Debug\net6.0\objetos.csproj.CoreCompileInputs.cache
+C:\Users\ederc\Documents\GitHub\JOGO-RPG\projeto\objetos\obj\Debug\net6.0\objetos.sourcelink.json
+C:\Users\ederc\Documents\GitHub\JOGO-RPG\projeto\objetos\obj\Debug\net6.0\objetos.dll
+C:\Users\ederc\Documents\GitHub\JOGO-RPG\projeto\objetos\obj\Debug\net6.0\refint\objetos.dll
+C:\Users\ederc\Documents\GitHub\JOGO-RPG\projeto\objetos\obj\Debug\net6.0\objetos.pdb
+C:\Users\ederc\Documents\GitHub\JOGO-RPG\projeto\objetos\obj\Debug\net6.0\ref\objetos.dll

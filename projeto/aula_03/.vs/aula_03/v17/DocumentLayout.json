@@ -1,32 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ederc\\Desktop\\app mobile\\aula_03\\",
+  "WorkspaceRootPath": "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\aula_03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D01D1C0-26AD-4491-A70D-C17C6EF0F90B}|..\\objetos\\objetos.csproj|c:\\users\\ederc\\desktop\\app mobile\\objetos\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D01D1C0-26AD-4491-A70D-C17C6EF0F90B}|..\\objetos\\objetos.csproj|c:\\users\\ederc\\desktop\\app mobile\\objetos\\enum\\npcenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D01D1C0-26AD-4491-A70D-C17C6EF0F90B}|..\\objetos\\objetos.csproj|c:\\users\\ederc\\desktop\\app mobile\\objetos\\enum\\inimigosenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D01D1C0-26AD-4491-A70D-C17C6EF0F90B}|..\\objetos\\objetos.csproj|c:\\users\\ederc\\desktop\\app mobile\\objetos\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D01D1C0-26AD-4491-A70D-C17C6EF0F90B}|..\\objetos\\objetos.csproj|c:\\users\\ederc\\desktop\\app mobile\\objetos\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D01D1C0-26AD-4491-A70D-C17C6EF0F90B}|..\\objetos\\objetos.csproj|c:\\users\\ederc\\desktop\\app mobile\\objetos\\enum\\generoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{179CB380-7434-4D4D-8F6F-24ADAF6E19F8}|aula_03.csproj|C:\\Users\\ederc\\Desktop\\app mobile\\aula_03\\aula_03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{179CB380-7434-4D4D-8F6F-24ADAF6E19F8}|aula_03.csproj|solutionrelative:aula_03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{179CB380-7434-4D4D-8F6F-24ADAF6E19F8}|aula_03.csproj|C:\\Users\\ederc\\Desktop\\app mobile\\aula_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{179CB380-7434-4D4D-8F6F-24ADAF6E19F8}|aula_03.csproj|c:\\users\\ederc\\documents\\github\\jogo-rpg\\projeto\\aula_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{179CB380-7434-4D4D-8F6F-24ADAF6E19F8}|aula_03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01D1C0-26AD-4491-A70D-C17C6EF0F90B}|..\\objetos\\objetos.csproj|c:\\users\\ederc\\documents\\github\\jogo-rpg\\projeto\\objetos\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01D1C0-26AD-4491-A70D-C17C6EF0F90B}|..\\objetos\\objetos.csproj|c:\\users\\ederc\\documents\\github\\jogo-rpg\\projeto\\objetos\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D01D1C0-26AD-4491-A70D-C17C6EF0F90B}|..\\objetos\\objetos.csproj|c:\\users\\ederc\\documents\\github\\jogo-rpg\\projeto\\objetos\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +23,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,100 +31,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NpcEnum.cs",
-              "DocumentMoniker": "C:\\Users\\ederc\\Desktop\\app mobile\\objetos\\enum\\NpcEnum.cs",
-              "RelativeDocumentMoniker": "..\\objetos\\enum\\NpcEnum.cs",
-              "ToolTip": "C:\\Users\\ederc\\Desktop\\app mobile\\objetos\\enum\\NpcEnum.cs",
-              "RelativeToolTip": "..\\objetos\\enum\\NpcEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T23:50:49.541Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Npc.cs",
-              "DocumentMoniker": "C:\\Users\\ederc\\Desktop\\app mobile\\objetos\\Npc.cs",
-              "RelativeDocumentMoniker": "..\\objetos\\Npc.cs",
-              "ToolTip": "C:\\Users\\ederc\\Desktop\\app mobile\\objetos\\Npc.cs",
-              "RelativeToolTip": "..\\objetos\\Npc.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\aula_03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\aula_03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABEAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T23:43:35.529Z",
+              "WhenOpened": "2024-03-06T22:28:45.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InimigosEnum.cs",
-              "DocumentMoniker": "C:\\Users\\ederc\\Desktop\\app mobile\\objetos\\enum\\InimigosEnum.cs",
-              "RelativeDocumentMoniker": "..\\objetos\\enum\\InimigosEnum.cs",
-              "ToolTip": "C:\\Users\\ederc\\Desktop\\app mobile\\objetos\\enum\\InimigosEnum.cs",
-              "RelativeToolTip": "..\\objetos\\enum\\InimigosEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "jogador.cs",
+              "DocumentMoniker": "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\objetos\\jogador.cs",
+              "RelativeDocumentMoniker": "..\\objetos\\jogador.cs",
+              "ToolTip": "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\objetos\\jogador.cs",
+              "RelativeToolTip": "..\\objetos\\jogador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T23:37:14.26Z"
+              "WhenOpened": "2024-04-10T22:19:04.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GeneroEnum.cs",
-              "DocumentMoniker": "C:\\Users\\ederc\\Desktop\\app mobile\\objetos\\enum\\GeneroEnum.cs",
-              "RelativeDocumentMoniker": "..\\objetos\\enum\\GeneroEnum.cs",
-              "ToolTip": "C:\\Users\\ederc\\Desktop\\app mobile\\objetos\\enum\\GeneroEnum.cs",
-              "RelativeToolTip": "..\\objetos\\enum\\GeneroEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "DocumentIndex": 2,
+              "Title": "Npc.cs",
+              "DocumentMoniker": "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\objetos\\Npc.cs",
+              "RelativeDocumentMoniker": "..\\objetos\\Npc.cs",
+              "ToolTip": "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\objetos\\Npc.cs",
+              "RelativeToolTip": "..\\objetos\\Npc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T23:25:30.999Z"
+              "WhenOpened": "2024-04-10T22:18:59.408Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "inimigo.cs",
-              "DocumentMoniker": "C:\\Users\\ederc\\Desktop\\app mobile\\objetos\\inimigo.cs",
+              "DocumentMoniker": "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\objetos\\inimigo.cs",
               "RelativeDocumentMoniker": "..\\objetos\\inimigo.cs",
-              "ToolTip": "C:\\Users\\ederc\\Desktop\\app mobile\\objetos\\inimigo.cs",
+              "ToolTip": "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\objetos\\inimigo.cs",
               "RelativeToolTip": "..\\objetos\\inimigo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T23:09:29.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "aula_03",
-              "DocumentMoniker": "C:\\Users\\ederc\\Desktop\\app mobile\\aula_03\\aula_03.csproj",
-              "RelativeDocumentMoniker": "aula_03.csproj",
-              "ToolTip": "C:\\Users\\ederc\\Desktop\\app mobile\\aula_03\\aula_03.csproj",
-              "RelativeToolTip": "aula_03.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-06T22:32:56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "jogador.cs",
-              "DocumentMoniker": "C:\\Users\\ederc\\Desktop\\app mobile\\objetos\\jogador.cs",
-              "RelativeDocumentMoniker": "..\\objetos\\jogador.cs",
-              "ToolTip": "C:\\Users\\ederc\\Desktop\\app mobile\\objetos\\jogador.cs",
-              "RelativeToolTip": "..\\objetos\\jogador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T22:32:06.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ederc\\Desktop\\app mobile\\aula_03\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ederc\\Desktop\\app mobile\\aula_03\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T22:28:45.129Z"
+              "WhenOpened": "2024-04-10T22:18:54.654Z"
             }
           ]
         }

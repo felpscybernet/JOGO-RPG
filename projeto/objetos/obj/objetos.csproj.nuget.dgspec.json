@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ederc\\Desktop\\app mobile\\projeto\\objetos\\objetos.csproj": {}
+    "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\objetos\\objetos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ederc\\Desktop\\app mobile\\projeto\\objetos\\objetos.csproj": {
+    "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\objetos\\objetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ederc\\Desktop\\app mobile\\projeto\\objetos\\objetos.csproj",
+        "projectUniqueName": "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\objetos\\objetos.csproj",
         "projectName": "objetos",
-        "projectPath": "C:\\Users\\ederc\\Desktop\\app mobile\\projeto\\objetos\\objetos.csproj",
+        "projectPath": "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\objetos\\objetos.csproj",
         "packagesPath": "C:\\Users\\ederc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ederc\\Desktop\\app mobile\\projeto\\objetos\\obj\\",
+        "outputPath": "C:\\Users\\ederc\\Documents\\GitHub\\JOGO-RPG\\projeto\\objetos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
